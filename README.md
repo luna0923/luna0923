@@ -3,11 +3,9 @@
 
 - 📫 Personal website [Lunas Potfolio]()
 
-- 🌱 Currently working on a Netflix Clone to level up my frontend & backend skills
+- 🌐 Currently working on a Netflix Clone to level up my frontend & backend skills
 
-- 🌐✨ Just built a cool clone where you can explore the same magic of Google Chrome —  check it out [here](https://clone-8db54.web.app/)
-  
-- 👩‍🎓 A Fresher actively seeking a Software Development role (Hybrid | Remote)
+- 👩‍🎓✨ A Fresher actively seeking a Software Development role (Hybrid | Remote)
 
 - 👨‍💻 A selection of projects are available at [)
 
