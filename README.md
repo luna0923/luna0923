@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Priya</h1>
 <h3 align="center">I’m a creative aspiring  web developer, focused on writing high quality and semantic code especially but not exclusively on the front end. I have strong experience in developing Application using ReactJS.</h3>
 
-- 📫 Personal website [Lunas Potfolio]()
+- 📫 Personal website [Lunas Potfolio](comming soon)
 
 - 🌐 Currently working on a Netflix Clone to level up my frontend & backend skills
 
 - 👩‍🎓✨ A Fresher actively seeking a Software Development role (Hybrid | Remote)
 
-- 👨‍💻 A selection of projects are available at [)
+
 
 
 > *"What you see might be simple, but it's built with passion, persistence, and a hunger to grow."*
