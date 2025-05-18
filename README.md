@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priya</h1>
 <h3 align="center">I’m a creative aspiring  web developer, focused on writing high quality and semantic code especially but not exclusively on the front end. I have strong experience in developing Applications using ReactJS.</h3>
 
-🚀 Excited to Launch My Personal Portfolio! https://introf-d594e.web.app/
+- 🚀 Excited to Launch My Personal Portfolio! https://introf-d594e.web.app/
 
 - 👩‍🎓✨ A Fresher actively seeking a Software Development role (Hybrid | Remote)
 
